@@ -1,4 +1,4 @@
-We will be implementing a simple Freemium model for TypeFlex. 
+We will be implementing the simple, yet successful, Freemium model for TypeFlex. 
 
 There will be two tiers a free tier and a paid tier.
 
