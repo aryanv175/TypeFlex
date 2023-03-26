@@ -1,5 +1,5 @@
 let shortcuts = {'/linkedin': "https://www.linkedin.com/in/aryanv175/", 
-'/ig': "https://www.instagram.com/cloudkicks.es/" , '/name': "Aryan Verma", 'ty': 'Thank you for participating Guys!'}
+'/ig': "https://www.instagram.com/" , '/name': "Aryan Verma", 'ty': 'Thank you for participating Guys!'}
 
 
 if (window.location.href === 'https://web.whatsapp.com/') {
