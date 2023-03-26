@@ -3,7 +3,7 @@
 TypeFlex: Use Text Replacement and increase your productivity with TypeFlex!
 
 
-Scalability: 
+**Scalability**: 
 
 TypeFlex is a very widely scalable product.
 
@@ -15,7 +15,7 @@ Event Organizers: As it goes in every event, the organizer is asked the same que
 These are just a few examples. The potential of this software is limitless.
 
 
-Revenue Model:
+**Revenue Model**:
 
 We will be implementing the simple, yet successful, Freemium model for TypeFlex. 
 
