@@ -37,5 +37,12 @@ The free tier will have a few limitations such as:
 
 The paid tier will overcome these shortcomings, giving the user the full potential of the software at a fixed monthly fee.
 
+![GitHub all releases](https://img.shields.io/github/downloads/aryanv175/TypeFlex/total)
+![GitHub language count](https://img.shields.io/github/languages/count/aryanv175/TypeFlex)
+![GitHub top language](https://img.shields.io/github/languages/top/aryanv175/TypeFlex?color=yellow)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/aryanv175/TypeFlex)
+![GitHub forks](https://img.shields.io/github/forks/aryanv175/TypeFlex?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/aryanv175/TypeFlex?style=social)
+
 
 
