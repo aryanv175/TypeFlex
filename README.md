@@ -1,6 +1,7 @@
-# Heading1 TypeFlex 
+# TypeFlex 
 
-UI: 
+## UI: 
+
 ![image](https://github.com/aryanv175/TypeFlex/assets/91381804/0bbb445f-99e2-44a4-96f5-88b328b237ab)
 
 
