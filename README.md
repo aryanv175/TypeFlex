@@ -1,4 +1,8 @@
-# TypeFlex
+# TypeFlex # Heading1
+
+UI: 
+![image](https://github.com/aryanv175/TypeFlex/assets/91381804/0bbb445f-99e2-44a4-96f5-88b328b237ab)
+
 
 TypeFlex: Use Text Replacement and increase your productivity with TypeFlex!
 
