@@ -4,11 +4,16 @@
 
 ![image](https://github.com/aryanv175/TypeFlex/assets/91381804/0bbb445f-99e2-44a4-96f5-88b328b237ab)
 
+## In Action:
+
+![image](https://github.com/aryanv175/TypeFlex/assets/91381804/cb1f5f8d-70e5-4848-8fd5-84e066f95ec6)
+
 
 TypeFlex: Use Text Replacement and increase your productivity with TypeFlex!
 
 
-**Scalability**: 
+
+## **Scalability**: 
 
 TypeFlex is a very widely scalable product.
 
@@ -20,7 +25,7 @@ Event Organizers: As it goes in every event, the organizer is asked the same que
 These are just a few examples. The potential of this software is limitless.
 
 
-**Revenue Model**:
+## **Revenue Model**:
 
 We will be implementing the simple, yet successful, Freemium model for TypeFlex. 
 
@@ -34,4 +39,3 @@ The paid tier will overcome these shortcomings, giving the user the full potenti
 
 
 
-The code in this repository is the Intellectual Property of Aryan Verma. It is available for viewing and viewing only.
