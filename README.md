@@ -1,4 +1,4 @@
-# TypeFlex 
+# TypeFlex : Use Text Replacement and increase your productivity with TypeFlex!
 
 ## UI: 
 
@@ -9,7 +9,7 @@
 ![image](https://github.com/aryanv175/TypeFlex/assets/91381804/cb1f5f8d-70e5-4848-8fd5-84e066f95ec6)
 
 
-TypeFlex: Use Text Replacement and increase your productivity with TypeFlex!
+
 
 
 
