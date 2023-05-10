@@ -1,4 +1,4 @@
-# TypeFlex-Tech-A-Thon-2.0
+# TypeFlex
 
 TypeFlex: Use Text Replacement and increase your productivity with TypeFlex!
 
