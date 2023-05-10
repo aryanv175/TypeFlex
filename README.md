@@ -1,4 +1,4 @@
-# TypeFlex : Use Text Replacement and increase your productivity with TypeFlex!
+# TypeFlex : Use Text Replacement and increase your productivity!
 
 ## UI: 
 
